@@ -6,6 +6,8 @@ public class Test : MonoBehaviour {
     // This is a test
 
         //this is my new feature
+
+        //this is the update function
 	// Use this for initialization
 	void Start () {
 		
